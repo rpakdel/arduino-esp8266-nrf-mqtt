@@ -14,6 +14,8 @@
 
 ## Pictures
 
-![Dollar store LED button repurposed](/wireless-button1.JPG?raw=true)
-![Another view of the Arduino and NRF24L01](/wireless-button2.JPG?raw=true)
-![Completed project. LED light is covered with black tape](/wireless-button3.JPG?raw=true)
+![Dollar store LED button repurposed](wireless-button1.JPG?raw=true)
+![Another view of the Arduino and NRF24L01](wireless-button2.JPG?raw=true)
+![Completed project. LED light is covered with black tape](wireless-button3.JPG?raw=true)
+![Node-RED Dashboard showing the sensor values](node-red-dashboard-sensors.PNG?raw=true)
+![Node-RED flow](node-red-flow.PNG?raw=true)
