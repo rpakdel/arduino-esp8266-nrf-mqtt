@@ -14,14 +14,21 @@
 
 ## Pictures
 
-![Dollar store LED light repurposed.](wireless-button1.JPG?raw=true)Dollar store LED light repurposed.
+![Dollar store LED light repurposed.](wireless-button1.JPG?raw=true)
+Dollar store LED light repurposed.
 
-![Another view of the Arduino and NRF24L01.](wireless-button2.JPG?raw=true)Another view of the Arduino and NRF24L01. Had many connection issues with the female headers. Also many issues with power stability which required 2 0.1uF capacitors.
+![Another view of the Arduino and NRF24L01.](wireless-button2.JPG?raw=true)
+Another view of the Arduino and NRF24L01. Had many connection issues with the female headers. Also many issues with power stability which required 2x 0.1uF capacitors.
 
-![Completed project. The red LED light is covered with black tape.](wireless-button3.JPG?raw=true)Completed project. The red power LED light is covered with black tape. 
+![Completed project. The red LED light is covered with black tape.](wireless-button3.JPG?raw=true)
+Completed project. The red power LED light is covered with black tape. 
 
-![Node-RED Dashboard showing the sensor values](node-red-dashboard-sensors.PNG?raw=true)Node-RED Dashboard showing the sensor values (currently just counting to 0 to 255).
+![Node-RED Dashboard showing the sensor values](node-red-dashboard-sensors.PNG?raw=true)
+<br/>
+Node-RED Dashboard showing the sensor values (currently just counting to 0 to 255).
 
-![Node-RED flow](node-red-flow.PNG?raw=true) Node-RED flow for the sensors.
+![Node-RED flow](node-red-flow.PNG?raw=true)
+Node-RED flow for the sensors.
 
-![Node-RED flow IKEA](node-red-flow-ikea.PNG?raw=true) Node-RED flow for turning IKEA Tradfri outlet on/off with auto-off feature.
+![Node-RED flow IKEA](node-red-flow-ikea.PNG?raw=true)
+Node-RED flow for turning IKEA Tradfri outlet on/off with auto-off feature.
