@@ -17,7 +17,8 @@
 ![Basestation with ESP8266 MQTT client and NRF24L01 receiver.](basestation.JPG?raw=true)
 Basestation with ESP8266 MQTT client and NRF24L01 receiver.
 
-![Wireless button PCB design in Fritzing.](wireles-button-fritzing.png?raw=true)Wireless button PCB design in Fritzing.
+![Wireless button PCB design in Fritzing.](wireles-button-fritzing.png?raw=true)
+Wireless button PCB design in Fritzing.
 
 ![Dollar store LED light repurposed.](wireless-button1.JPG?raw=true)
 Dollar store LED light repurposed.
